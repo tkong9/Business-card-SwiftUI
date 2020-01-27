@@ -2,4 +2,4 @@
 
 SwiftUI Practice
 
-<img src="screeshot/main_screen.png" width="250">
+<img src="screenshot/main_screen.png" width="250">
